@@ -1,0 +1,25 @@
+/* Element Selecter*/
+p
+{
+    color: violet;
+}
+/* Universal Selecter
+*{
+    background-color: bisque;
+}
+/* Class Selecter
+.myclass{
+    background-color: red;
+}
+/* ID Selecter
+#myclass{
+
+background-color: greenyellow;
+}*/
+body{
+    margin: 0px;
+    padding: 4px;
+    height: 100px;
+    width: 100px;
+    display :flex;
+}
